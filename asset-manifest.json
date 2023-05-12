@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/color-generato/static/css/main.598d7b21.css",
+    "main.js": "/color-generato/static/js/main.378480a1.js",
+    "index.html": "/color-generato/index.html",
+    "main.598d7b21.css.map": "/color-generato/static/css/main.598d7b21.css.map",
+    "main.378480a1.js.map": "/color-generato/static/js/main.378480a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.598d7b21.css",
+    "static/js/main.378480a1.js"
+  ]
+}
